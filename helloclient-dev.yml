@@ -1,5 +1,5 @@
-name: nick
-age : 19
+name: wxy
+age : 22
 
 eureka:
   client:
